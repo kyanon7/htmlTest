@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "jshint.options": {
+        "esversion": 6
+    }
+}
